@@ -169,11 +169,8 @@ def returnSum(myDict):
 myDict = {'a': 100, 'b': 200, 'c': 300}
 print("Sum :",returnSum(myDict))
 ```
-
 ## Output
 
 ![image](https://github.com/user-attachments/assets/65f97aba-1e64-45f9-88c0-56d545b1abac)
-
-
 ## Result
 Thus,the program has been executed successfully.
